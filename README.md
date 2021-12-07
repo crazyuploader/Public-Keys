@@ -1,5 +1,3 @@
-# Public Keys for Jugal Kishore
-
 ## SSH Public Key
 
 ```
