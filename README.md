@@ -4,7 +4,7 @@
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOViSmie/50KkIbdsPrLF/UOE7VTWtTLvkHBzKu+pYzJ me@devjugal.com
 ```
 
-### PGP Public Key
+## PGP Public Key
 
 **PGP Key Fingerprint:** `13D7 A962 FA7B 1D91 EA71 F77C EAB6 4DCD 0BDC EE35`
 
